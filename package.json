@@ -2,6 +2,7 @@
 	"name": "decap-proxy",
 	"version": "0.0.0",
 	"private": true,
+	"packageManager": "yarn@4.9.1",
 	"scripts": {
 		"deploy": "wrangler deploy",
 		"dev": "wrangler dev",
